@@ -1,0 +1,31 @@
+dataset_pattern,column_name,description
+carreaux_nivNaturel,idcar_nat,Identifiant Inspire du carreau de niveau naturel
+carreaux_nivNaturel,tmaille,Taille en mètres du côté du carreau
+carreaux_nivNaturel,ind,Nombre d'individus
+carreaux_nivNaturel,men,Nombre de ménages
+carreaux_nivNaturel,men_pauv,Nombre de ménages pauvres
+carreaux_nivNaturel,men_1ind,Nombre de ménages d'un seul individu
+carreaux_nivNaturel,men_5ind,Nombre de ménages de 5 individus ou plus
+carreaux_nivNaturel,men_prop,Nombre de ménages propriétaires
+carreaux_nivNaturel,men_fmp,Nombre de ménages monoparentaux
+carreaux_nivNaturel,ind_snv,Somme des niveaux de vie winsorisés des individus
+carreaux_nivNaturel,men_surf,Somme de la surface des logements du carreau
+carreaux_nivNaturel,men_coll,Nombre de ménages en logements collectifs
+carreaux_nivNaturel,men_mais,Nombre de ménages en maison
+carreaux_nivNaturel,log_av45,Nombre de logements construits avant 1945
+carreaux_nivNaturel,log_45_70,Nombre de logements construits entre 1945 et 1969
+carreaux_nivNaturel,log_70_90,Nombre de logements construits entre 1970 et 1989
+carreaux_nivNaturel,log_ap90,Nombre de logements construits depuis 1990
+carreaux_nivNaturel,log_inc,Nombre de logements dont la date de construction est inconnue
+carreaux_nivNaturel,log_soc,Nombre de logements sociaux
+carreaux_nivNaturel,ind_0_3,Nombre d'individus de 0 à 3 ans
+carreaux_nivNaturel,ind_4_5,Nombre d'individus de 4 à 5 ans
+carreaux_nivNaturel,ind_6_10,Nombre d'individus de 6 à 10 ans
+carreaux_nivNaturel,ind_11_17,Nombre d'individus de 11 à 17 ans
+carreaux_nivNaturel,ind_18_24,Nombre d'individus de 18 à 24 ans
+carreaux_nivNaturel,ind_25_39,Nombre d'individus de 25 à 39 ans
+carreaux_nivNaturel,ind_40_54,Nombre d'individus de 40 à 54 ans
+carreaux_nivNaturel,ind_55_64,Nombre d'individus de 55 à 64 ans
+carreaux_nivNaturel,ind_65_79,Nombre d'individus de 65 à 79 ans
+carreaux_nivNaturel,ind_80p,Nombre d'individus de 80 ans ou plus
+carreaux_nivNaturel,ind_inc,Nombre d'individus dont l'âge est inconnu
